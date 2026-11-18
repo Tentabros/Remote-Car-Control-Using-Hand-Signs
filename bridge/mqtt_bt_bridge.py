@@ -20,7 +20,7 @@ BROKER = "100.110.103.115"      # laptop 1's Tailscale IP (where Mosquitto runs)
 PORT = 1883
 TOPIC = "car_controls/"         # same topic inference.py publishes to
 
-ESP32_MAC = "XX:XX:XX:XX:XX:XX" # printed by the ESP32 on boot ("Bluetooth MAC: ...")
+ESP32_MAC = "28:05:A5:30:D6:DE" # printed by the ESP32 on boot ("Bluetooth MAC: ...")
 RFCOMM_CHANNEL = 1              # printed by the ESP32 on boot ("RFCOMM channel N")
 
 VALID = {"FORWARD", "BACKWARD", "LEFT", "RIGHT", "STOP"}
