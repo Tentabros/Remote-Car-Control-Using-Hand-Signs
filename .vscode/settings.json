@@ -1,0 +1,6 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "cmake.sourceDirectory": "C:/Users/PC/Desktop/HaGRID-Car-Control/esp32_car",
+    "idf.currentSetup": "C:\\esp\\v5.5.3\\esp-idf"
+}
